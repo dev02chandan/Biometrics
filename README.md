@@ -3,12 +3,13 @@
 This repository hosts two projects that dive into the realm of biometric identification using signature and fingerprint analysis. By leveraging image processing techniques and pattern recognition, these projects aim to establish secure and accurate identification systems.
 
 ## Projects Overview
+
+### Reseach Work (Accepted) in Open Set Masked Face Identification System
+
 <p align='center'>
 <img width="837" alt="image" src="https://mobidev.biz/wp-content/uploads/2023/03/how-masked-face-recognition-works.png">
 </p>
 
-
-### Reseach Work (Accepted) in Open Set Masked Face Identification System
 This was a project to create a system to identify individuals who are genuine vs imposters, while wearing face masks. This project was inspired by the COVID 19 pandemic, which was a serious health risk that prompted people to start wearing masks. Our contribution was the new dataset that we created as well as the results, which classified imposters accurately.
 
 The contributors to this project were:
