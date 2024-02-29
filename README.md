@@ -1,14 +1,41 @@
-
+# Biometrics
 
 This repository hosts two projects that dive into the realm of biometric identification using signature and fingerprint analysis. By leveraging image processing techniques and pattern recognition, these projects aim to establish secure and accurate identification systems.
 
 ## Projects Overview
+<p align='center'>
+<img width="837" alt="image" src="https://mobidev.biz/wp-content/uploads/2023/03/how-masked-face-recognition-works.png">
+</p>
+
+
+### Reseach Work (Accepted) in Open Set Masked Face Identification System
+This was a project to create a system to identify individuals who are genuine vs imposters, while wearing face masks. This project was inspired by the COVID 19 pandemic, which was a serious health risk that prompted people to start wearing masks. Our contribution was the new dataset that we created as well as the results, which classified imposters accurately.
+
+The contributors to this project were:
+1. Aryan Bhapkar
+2. Manasi Pawaskar
+3. Dev Chandan
+
+
+## Dataset
+We created our dataset by combining two Datasets which were publically available.
+CASIA Web Face and CASIA Web Masked Face
+Here is the link to our Dataset: 
+https://drive.google.com/file/d/1yMgSIg9bnUwzot8ZFcxXcjmXl_OSWiyT/view?usp=share_link
+
+## Presentations
+[1st Presentation](https://www.canva.com/design/DAFfSnIccLQ/MmD0DOumTdVn39tNuE9t1Q/edit?utm_content=DAFfSnIccLQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Research Paper Presentation (with references)](https://docs.google.com/presentation/d/1nxSF2kWtjcuxbOpirdclmEtanVKwD6VsE2dbr2NGD-o/edit?usp=sharing)
+
+[Research Paper Pdf](https://drive.google.com/file/d/1DS-qcZlO-CYybxoWVvXHTjpTXjc6JJh1/view?usp=sharing)
+
 
 ### Signature Forge Detection
 
 This project is designed to detect signature forgeries using structural similarity indexes and image processing methods. It demonstrates the ability to differentiate between genuine and forged signatures effectively.
 
-<img width="837" alt="image" src="https://github.com/dev02chandan/Biometrics/assets/73015720/3175e034-905f-49ce-8318-917c51c2b7ee"># Biometrics Repository
+<img width="837" alt="image" src="https://github.com/dev02chandan/Biometrics/assets/73015720/3175e034-905f-49ce-8318-917c51c2b7ee">
 
 #### Steps Involved:
 
