@@ -1,4 +1,3 @@
-![Image of Biometrics](https://media.istockphoto.com/id/1299730469/photo/fingerprint-biometric-authentication-button-digital-security-concept.jpg?s=612x612&w=0&k=20&c=5N69O1YqbcAw2ZHV1oVeItoagXth9YNxF_Dnfn_pwUI=)
 # Biometrics Repository
 
 This repository hosts two projects that dive into the realm of biometric identification using signature and fingerprint analysis. By leveraging image processing techniques and pattern recognition, these projects aim to establish secure and accurate identification systems.
@@ -19,6 +18,8 @@ This project is designed to detect signature forgeries using structural similari
 ### Fingerprint Identification System
 
 The goal of this notebook is to develop a fingerprint identification system. The system processes the fingerprint images, enhancing and extracting unique features such as minutiae to match fingerprints with high precision.
+
+![Image of Fingerprint Biometrics](https://media.istockphoto.com/id/1299730469/photo/fingerprint-biometric-authentication-button-digital-security-concept.jpg?s=612x612&w=0&k=20&c=5N69O1YqbcAw2ZHV1oVeItoagXth9YNxF_Dnfn_pwUI=)
 
 #### Steps Involved:
 
