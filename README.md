@@ -1,4 +1,4 @@
-<img width="837" alt="image" src="https://github.com/dev02chandan/Biometrics/assets/73015720/3175e034-905f-49ce-8318-917c51c2b7ee"># Biometrics Repository
+
 
 This repository hosts two projects that dive into the realm of biometric identification using signature and fingerprint analysis. By leveraging image processing techniques and pattern recognition, these projects aim to establish secure and accurate identification systems.
 
@@ -8,7 +8,7 @@ This repository hosts two projects that dive into the realm of biometric identif
 
 This project is designed to detect signature forgeries using structural similarity indexes and image processing methods. It demonstrates the ability to differentiate between genuine and forged signatures effectively.
 
-![Image for Signature Forge detection](https://miro.medium.com/v2/resize:fit:482/1*2r_AGDAxzKAK3TcjmXdTtQ.jpeg)
+<img width="837" alt="image" src="https://github.com/dev02chandan/Biometrics/assets/73015720/3175e034-905f-49ce-8318-917c51c2b7ee"># Biometrics Repository
 
 #### Steps Involved:
 
